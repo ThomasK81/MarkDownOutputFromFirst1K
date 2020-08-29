@@ -12,21 +12,52 @@ header-includes: |
 thanks: "This work has been produced by the Open Greek and Latin project through the help of volunteers. See contributions for details."
 ...
 
-# Contributions  
+# Contributions
 
-Editor-in-Chief, Perseus Digital Library: Gregory R. Crane  
- Corrected and encoded the text: Digital Divide Data  
- Project Manager (University of Leipzig): Matt Munson  
- Project Assistant (University of Leipzig): Annette Geßner  
- Lead Developer (University of Leipzig): Thibault Clérice  
- Technical Advisor: Bruce Robertson  
- Project Manager (University of Leipzig), 2013-2014: Greta Franzini  
- Technical Manager (University of Leipzig), 2013-2015: Frederik Baumgardt  
- Project Assistant (University of Leipzig), 2013-2014: Simona Stoyanova  
 
-# Acta Archelai  
+### Editor-In-Chief, Perseus Digital Library
 
-## §5  
+Gregory R. Crane  
+  
+### Corrected And Encoded The Text
+
+Digital Divide Data  
+  
+### Project Manager (University Of Leipzig)
+
+Matt Munson  
+  
+### Project Assistant (University Of Leipzig)
+
+Annette Geßner  
+  
+### Lead Developer (University Of Leipzig)
+
+Thibault Clérice  
+  
+### Technical Advisor
+
+Bruce Robertson  
+  
+### Project Manager (University Of Leipzig), 2013-2014
+
+Greta Franzini  
+  
+### Technical Manager (University Of Leipzig), 2013-2015
+
+Frederik Baumgardt  
+  
+### Project Assistant (University Of Leipzig), 2013-2014
+
+Simona Stoyanova  
+  
+### Markdown and PDF Production
+
+This version was produced by [TEItoCEX](https://github.com/ThomasK81/TEItoCEX) written by Thomas Koentges.
+
+# Acta Archelai
+
+### Chapter 5
 
 <pb n="5"/>
 <p>Μανιχαῖος ἀπόστολος Ἰησοῦ Χριστοῦ καὶ οἱ σὺν ἐμοὶ πάντες
@@ -104,9 +135,10 @@ parcere. . festinas] sehr freie Übersetzung</note>
 
 <pb n="8"/>
 ἐπιβάλλω, ὡς οἱ τῶν πολλῶν ἀφρονέστεροι ποιοῦσιν. νόει νόει ἃ λέγω.
-τέκνον τιμιώτατε.</p>  
+τέκνον τιμιώτατε.</p>
 
-## §6  
+
+### Chapter 6
 
 <p>(VII), Mάρκελλος, ἀνὴρ ἐπίσημος, Μανιχαίῳ τῷ διὰ τῆς ἐπιστολῆς
 δηλουμένῳ, χαίρειν. τὴν τὴν μὲν ὑπὸ σοῦ γραφεῖσαν ἐπιστολὴν
@@ -125,9 +157,10 @@ os M | 8 sibi desiderans dari] uidere desiderans M; vgl. Epiphanius, haer, 66,7
 18 a te &lt; ΑΜ | 19 vero] uerum Α &lt; Μ | 21 per epistulam &lt; C
 | promisti C | 22 scriptam atque &lt; C | tradit M | referendam C | 23 ad
 eum] illi Μ | 24 nach itineris + ac M | 25 ad illum reuersurum A ad eum 
-reditum C</note>  
+reditum C</note>
 
-## §7  
+
+### Chapter 7
 
 <pb n="9"/>
  <p>(XXV). Εἰ τὴν τοῦ Μάνη πίστιν θέλετε μαθεῖν, παρ᾿ ἐμοῦ
@@ -260,9 +293,10 @@ est sol] eine Erklärung des Übersetzers w. e. sch. | adimens] λαβὼν Epip
 <lb n="10"/> οὖν σελήνης μεταδιδούσης τὸν γόμον τῶν φαῶν τοῖς αἰῶσι τοῦ
 πατρός, παραμένουσιν ἐν τῷ στύλῳ τῆς δόξης, ὃς καλεῖται ἀὴρ ὁ
 τέλειος. ὁ δὲ ἀὴρ οὗτος στύλος ἐστὶ φωτός. ἐπειδὴ γέμει ψυχῶν
-τῶν καθαριζοιμένων. αὕτη ἐστὶν ἡ αἰτία, δι᾿ ἧς αἱ ψυχαὶ σώζονται.</p>  
+τῶν καθαριζοιμένων. αὕτη ἐστὶν ἡ αἰτία, δι᾿ ἧς αἱ ψυχαὶ σώζονται.</p>
 
-## §9  
+
+### Chapter 9
 
 <p>(XXVII). Ἡ δὲ τοῦ ἀποθανεῖν τοὺς ἀνθρώπους ἐστὶ πάλιν
 <lb n="15"/> αὕτη· παρθένους τις ὡραῖα κεκοσμημένη, Μανὴ πάνυ, συλαῖν ἐπι-
@@ -314,9 +348,10 @@ mortem A | hoc enim M ~ M2 | 27 magni] imaginis Μ | 28 rursum AC</note>
 ὅταν κοπῶσιν αἱ ῥίζαι αὐτῶν, τότε ἄρχεται λοιμὸς γίνεσθαι, καὶ
 οὕτως ἀκοθνήσκουσιν. ἐὰν δὲ τὰ ἄνω τῆς ῥίζης τόνω σαλεύσῃ,
 σεισμὸς γίγνεταί τε καὶ ἐπακολουθεῖ, συγκινουμένου μὲν τοῦ Ὠμοφόρου·
-<lb n="5"/> αὕτη ἡ αἰτία τοῦ θανάτου.</p>  
+<lb n="5"/> αὕτη ἡ αἰτία τοῦ θανάτου.</p>
 
-## §10  
+
+### Chapter 10
 
 <p>(XXVIII). Ἐρῶ δὲ ὑμῖν καὶ τοῦτο, πῶς μεταγγίζεται ἡ ψυχὴ
 εἰς πέντε σώματα. πρῶτον καθαρίζεται μικρόν τι ἀπ᾿ αὐτῆς, εἶτα
@@ -385,9 +420,10 @@ oratio manicheorum super cibos (rot) Μ | ad panem &lt; Μ</note>
 <lb n="10"/> τὴν χεῖρα βλάπτει τὸν ἀέρα, ἐπειδὴ ὁ ἀὴρ ψυχή ἐστι τῶν ἀνθρώπων
 κοὶ τῶν ζώων καὶ τῶν πετεινῶν καὶ τῶν ἰχθύων καὶ τῶν ἑρπετῶν.
 κοὶ εἴ τις ἐν κόσμῳ ἐστίν, εἶπον ὑμῖν, ὅτι τὸ σῶμα τοῦτο οὐκ ἔστι τοῦ
-θεοῦ, ἀλλὰ τῆς ὕλης ἐστὶ κοὶ σκότος ἐστί, καὶ αὐτὸ σκοτωθῆναι δεῖ.</p>  
+θεοῦ, ἀλλὰ τῆς ὕλης ἐστὶ κοὶ σκότος ἐστί, καὶ αὐτὸ σκοτωθῆναι δεῖ.</p>
 
-## §11  
+
+### Chapter 11
 
 <p>(XXIX). περὶ δὲ τοῦ παραδείσου ὅς καλεῖται κόσμος. ἔστι
 δὲ τὰ φυτὰ τὰ ἐν αὐτῷ, ἐπιθυμίαι κοὶ ἄλλαι ἀπάται διαφθείρουσαι
@@ -431,9 +467,10 @@ CM | 24 postquam Α | correpta] correptam Α correcta Μ | transfundetur M
 ἑπτὰ τούτοις χρῶνται. καὶ πάλιν τὸ παρ' ὑμῖν τίμιον καὶ μίγα <lb n="5"/>
 <lb n="10"/> ὄνομα Σαβαὼθ αὐτὸ εἴναι τὴν φύσιν τοῦ ἀνθρώπου καὶ πατέρα τῆς
 ἐκιθυμίας· καὶ διὰ τοῦτο ἁπλάριοι προσκυνοῦσι τὴν ἐπιθυμίαν, θεὸν
-αὐτὴν ἡγούμενοι.</p>  
+αὐτὴν ἡγούμενοι.</p>
 
-## §12  
+
+### Chapter 12
 
 <p>Περὶ δὲ τοῦ Ἀδὰμ πῶς ἐκτίσθη, λέγει οὕτως· ὅτι ὀ εἰπών,
 δεῦτε, καὶ ποιήσωμεν ἔνθρωπον κατ' εἰκόνα ἡμετέραν καὶ καθ'
@@ -483,9 +520,10 @@ A | haec Α | 27 mittet C | 27/28 id est] fehlt bei Epiphanius | 28 nach est
 <pb n="21"/>
 Μωῦσέως λαλήσαντα καὶ τῶν προφητῶν, μετ’ αὐτοῦ ἔχουσι δεθῆναι,
 ὅτι οὐ. ἤλπισαν ἐπὶ τὸν θεὸν τὴς ἀληθείας· ἀκεῖνος γὰρ κατὰ τὰς
-ἐπιθυμίας αὐτῶν ἐλάλησε μετ᾿ αὐτῶν.</p>  
+ἐπιθυμίας αὐτῶν ἐλάλησε μετ᾿ αὐτῶν.</p>
 
-## §13  
+
+### Chapter 13
 
 <p>Μετὰ δὲ πάντα ταῦτα ἐπὶ τέλει λέγει καθὼς αὐτὸς ἔγραψεν
 <lb n="5"/> ὁ πρεσβύτης· ὅταν προφάνῃ αὐτοῦ τὴν εἰκόνα, τότε ὁ Ὠμοφόρος
@@ -519,5 +557,5 @@ ignis uiuensque Α uiui quae C | 30 habitabant Μ | obsumat Α | quod AC</note>
 <lb n="5"/> Ἀδδᾶς τὰ τῆς ἀνατολῆς μέρη ἔλαχεν, ὁ δὲ Θωμᾶς τὴν Σύρων γὴν
 κεκλήρωται, Ἑρμείας δὲ ἄλλος τὴν εἰς Αἴγυπτον πορείαν ἐποιήσατο·
 καὶ μέχρι σήμερον ἐκεῖσε διατρίβουσι, τὴν τοῦ δόγματος ὑπόθεσιν
-στῆαι θέλοντες.</p>  
+στῆαι θέλοντες.</p>
 

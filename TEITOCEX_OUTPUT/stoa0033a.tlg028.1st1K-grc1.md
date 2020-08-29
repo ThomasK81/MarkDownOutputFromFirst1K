@@ -12,19 +12,44 @@ header-includes: |
 thanks: "This work has been produced by the Open Greek and Latin project through the help of volunteers. See contributions for details."
 ...
 
-# Contributions  
+# Contributions
 
-Published original versions of the electronic texts: Mark Schiefsky, Harvard University; Gregory R. Crane, Universität Leipzig; Uwe Vagelpohl, University of Warwick  
- Keyboarding:   
- Editor-in-Chief, Perseus Digital Library: Gregory R. Crane  
- Project Manager (University of Leipzig): Matt Munson  
- Project Assistant (University of Leipzig): Annette Geßner  
- Lead Developer (University of Leipzig): Thibault Clérice  
- Technical Advisor: Bruce Robertson  
 
-# De mundo  
+### Published Original Versions Of The Electronic Texts
 
-## §1  
+Mark Schiefsky, Harvard University  
+Gregory R. Crane, Universität Leipzig  
+Uwe Vagelpohl, University of Warwick  
+  
+### Keyboarding
+
+### Editor-In-Chief, Perseus Digital Library
+
+Gregory R. Crane  
+  
+### Project Manager (University Of Leipzig)
+
+Matt Munson  
+  
+### Project Assistant (University Of Leipzig)
+
+Annette Geßner  
+  
+### Lead Developer (University Of Leipzig)
+
+Thibault Clérice  
+  
+### Technical Advisor
+
+Bruce Robertson  
+  
+### Markdown and PDF Production
+
+This version was produced by [TEItoCEX](https://github.com/ThomasK81/TEItoCEX) written by Thomas Koentges.
+
+# De mundo
+
+### Chapter 1
 
 <head>ΠΕΡΙ ΚΟΣΜΟΥ <lb/>ΠΡΟΣ ΑΛΕΞΑΝΔΡΟΝ.</head>
 					<p>ΠΟΛΛΑΚΙΣ μὲν ἔμοιγε θεῖόν τι καὶ δαιμόνιον ὄντως <lb/>χρῆμα ὦ Ἀλέξανδρε ἡ φιλοσοφία
@@ -50,9 +75,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						ἡμεῖς, <lb/>καὶ καθ’ ὅσον ἐφικτόν, θεολογῶμεν περὶ τούτων συμπάντων, <lb/>ὡς ἕκαστον
 						ἔχει φύσεως καὶ θέσεως καὶ κινήσεως. Πρέπειν <lb/>δὲ οἶμαί γε καὶ σοί, ὄντι ἡγεμόνων
 						ἀρίστῳ, τὴν τῶν <lb/>μεγίστων ἱστορίαν μετιέναι, φιλοσοφίᾳ τε μηδὲν μικρὸν
-						<lb/>ἐπινοεῖν, ἀλλὰ τοῖς τοιούτοις δώροις δεξιοῦσθαι τοὺς <lb/>ἀρίστους. </p>  
+						<lb/>ἐπινοεῖν, ἀλλὰ τοῖς τοιούτοις δώροις δεξιοῦσθαι τοὺς <lb/>ἀρίστους. </p>
 
-## §2  
+
+### Chapter 2
 
 <p>Κόσμος μὲν οὖν ἐστὶ σύστημα ἐξ οὐρανοῦ καὶ γῆς καὶ τῶν <lb/>ἐν τούτοις περιεχομένων
 						φύσεων. Λέγεται δὲ καὶ ἑτέρως <lb/>κόσμος ἡ τῶν ὅλων τάξις τε καὶ διακόσμησις, ὑπὸ θεῶν
@@ -99,9 +125,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						διακαιόμενος λαμπρότερός τε γίνεται <lb/>καὶ ἀλεεινός. Ἐν δὲ τούτῳ τῆς παθητῆς ὄντι καὶ
 						αὐτῷ <lb/>δυνάμεως καὶ παντοδαπῶς ἀλλοιουμένῳ νέφη τε συνίστανται <lb/>καὶ ὄμβροι
 						καταρράσσουσι, χιόνες τε καὶ πάχναι καὶ <lb/>χάλαζαι πνοαί τε ἀνέμων καὶ τυφώνων, ἔτι τε
-						βρονταὶ καὶ <lb/>ἀστραπαὶ καὶ πτώσεις κεραυνῶν μυρίων τε γνόφων <lb/>συμπληγάδες. </p>  
+						βρονταὶ καὶ <lb/>ἀστραπαὶ καὶ πτώσεις κεραυνῶν μυρίων τε γνόφων <lb/>συμπληγάδες. </p>
 
-## §3  
+
+### Chapter 3
 
 <p>Ἑξῆς δὲ τῆς ἀερίου φύσεως γῆ τε καὶ θάλασσα ἐρήρεισται, <lb/>φυτοῖς βρύουσα καὶ ζῴοις
 						πηγαῖς τε καὶ ποταμοῖς, <lb/>τοῖς μὲν ἀνὰ γῆν ἑλιττομένοις, τοῖς δὲ ἀνερευγομένοις εἰς
@@ -167,9 +194,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						περιρρεομένην, <lb/>οἱ μὲν τῇ Ἀσίᾳ οἱ δὲ τῇ Λιβύῃ προσάπτουσι, καὶ τὰς <lb/>νήσους οἱ
 						μὲν ἐξαιρέτους ποιοῦσιν οἱ δὲ προσνέμουσι ταῖς <lb/>γείτοσιν ἀεὶ μοίραις. Γῆς μὲν δὴ καὶ
 						θαλάττης φύσιν καὶ <lb/>θέσιν, ἥν τινα καλεῖν εἰώθαμεν οἰκουμένην, τοιάνδε τινὰ
-						<lb/>ἱστορήκαμεν. </p>  
+						<lb/>ἱστορήκαμεν. </p>
 
-## §4  
+
+### Chapter 4
 
 <p>Περὶ δὲ τῶν ἀξιολογωτάτων ἐν αὐτῇ καὶ περὶ αὐτὴν παθῶν <lb/>νῦν λέγωμεν, αὐτὰ τὰ
 						ἀναγκαῖα κεφαλαιούμενοι. <lb/>Δύο γὰρ δή τινες ἀπ’ αὐτῆς ἀναθυμιάσεις ἀναφέρονται
@@ -291,9 +319,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						κατά τινας ὡρισμένους καιρούς. Ὡς δὲ τὸ πᾶν <lb/>εἰπεῖν, τῶν στοιχείων ἐγκεκραμένων
 						ἀλλήλοις, ἐν ἀέρι τε καὶ <lb/>γῇ καὶ θαλάσσῃ κατὰ τὸ εἰκὸς αἱ τῶν παθῶν ὁμοιότητες
 						<lb/>συνίστανται, τοῖς μὲν ἐπὶ μέρους φθορὰς καὶ γενέσεις φέρουσαι, <lb/>τὸ δὲ σύμπαν
-						ἀνώλεθρόν τε καὶ ἀγένητον <lb/>φυλάττουσαι. </p>  
+						ἀνώλεθρόν τε καὶ ἀγένητον <lb/>φυλάττουσαι. </p>
 
-## §5  
+
+### Chapter 5
 
 <p>Καίτοι γέ τις ἐθαύμασε πῶς ποτέ, εἰ ἐκ τῶν ἐναντίων <lb/>ἀρχῶν συνέστηκεν ὁ κόσμος,
 						λέγω δὴ ξηρῶν τε καὶ ὑγρῶν <lb/>ψυχρῶν τε καὶ θερμῶν, οὐ πάλαι διέφθαρται καὶ ἀπόλωλεν,
@@ -352,9 +381,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						<lb/>φθείρεται· καὶ αἱ μὲν γενέσεις ἐπαναστέλλουσι τὰς φθοράς, <lb/>αἱ δὲ φθοραὶ
 						κουφίζουσι τὰς γενέσεις. Μία δὲ ἐκ πάντων <lb/>περαινομένη σωτηρία διὰ τέλους,
 						ἀντιπεριισταμένων ἀλλήλοις <lb/>καὶ τοτὲ μὲν κρατούντων τοτὲ δὲ κρατουμένων, φυλάττει
-						<lb/>τὸ σύμπαν ἄφθαρτον δι’ αἰῶνος. </p>  
+						<lb/>τὸ σύμπαν ἄφθαρτον δι’ αἰῶνος. </p>
 
-## §6  
+
+### Chapter 6
 
 <p>Λοιπὸν δὲ δὴ περὶ τῆς τῶν ὅλων συνεκτικῆς αἰτίας <lb/>κεφαλαιωδῶς εἰπεῖν, ὃν τρόπον καὶ
 						περὶ τῶν ἄλλων· πλημμελὲς <lb/>γὰρ περὶ κόσμου λέγοντας, εἰ καὶ μὴ δι’ ἀκριβείας,
@@ -544,9 +574,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 					<l>ὄχναι καὶ ῥοιαὶ καὶ μηλέαι ἀγλαόκαρποι,</l>
 					<p>τῶν τε ζῴων τά τε ἄγρια καὶ ἥμερα, τά τε ἐν ἀέρι καὶ <lb/>ἐπὶ γῆς καὶ ἐν ὕδατι
 						βοσκόμενα, γίνεται καὶ ἀκμάζει καὶ <pb n="156"/> φθείρεται τοῖς τοῦ θεοῦ πειθόμενα
-						θεσμοῖς· πᾶν γὰρ ἑρπετὸν <lb/>τὴν γῆν νέμεται, ὥς φησιν Ἡράκλειτος. </p>  
+						θεσμοῖς· πᾶν γὰρ ἑρπετὸν <lb/>τὴν γῆν νέμεται, ὥς φησιν Ἡράκλειτος. </p>
 
-## §7  
+
+### Chapter 7
 
 <p>Εἶς δὲ ὢν πολυώνυμός ἐστι, κατονομαζόμενος τοῖς πάθεσι <lb/>πᾶσιν ἅπερ αὐτὸς νεοχμοῖ.
 						Καλοῦμεν δὲ αὐτὸν καὶ Ζῆνα <lb/>καὶ Δία, παραλλήλως χρώμενοι τοῖς ὀνόμασιν, ὡς ἂν εἰ
@@ -589,5 +620,5 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						ὥσπερ ὁ παλαιὸς λόγος, ἀρχήν τε καὶ τελευτὴν καὶ <lb/>μέσα τῶν ὄντων ἁπάντων ἔχων,
 						εὐθείᾳ περαίνει κατὰ φύσιν <lb/>πορευόμενος· τῷ δὲ ἀεὶ ξυνέπεται δίκη, τῶν ἀπολειπομένων
 						<lb/>τοῦ θείου νόμου τιμωρός, ἧς ὁ εὐδαιμονήσειν μέλλων μακάριός <lb/>τε καὶ εὐδαίμων ἐξ
-						ἀρχῆς εὐθὺς μέτοχος εἴη. </p>  
+						ἀρχῆς εὐθὺς μέτοχος εἴη. </p>
 

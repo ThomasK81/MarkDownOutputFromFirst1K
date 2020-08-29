@@ -12,21 +12,52 @@ header-includes: |
 thanks: "This work has been produced by the Open Greek and Latin project through the help of volunteers. See contributions for details."
 ...
 
-# Contributions  
+# Contributions
 
-Editor-in-Chief, Perseus Digital Library: Gregory R. Crane  
- Corrected and encoded the text: Digital Divide Data  
- Project Manager (University of Leipzig): Matt Munson  
- Project Assistant (University of Leipzig): Annette Geßner  
- Lead Developer (University of Leipzig): Thibault Clérice  
- Technical Advisor: Bruce Robertson  
- Project Manager (University of Leipzig), 2013-2014: Greta Franzini  
- Technical Manager (University of Leipzig), 2013-2015: Frederik Baumgardt  
- Project Assistant (University of Leipzig), 2013-2014: Simona Stoyanova  
 
-# Acta Archelai  
+### Editor-In-Chief, Perseus Digital Library
 
-## §1  
+Gregory R. Crane  
+  
+### Corrected And Encoded The Text
+
+Digital Divide Data  
+  
+### Project Manager (University Of Leipzig)
+
+Matt Munson  
+  
+### Project Assistant (University Of Leipzig)
+
+Annette Geßner  
+  
+### Lead Developer (University Of Leipzig)
+
+Thibault Clérice  
+  
+### Technical Advisor
+
+Bruce Robertson  
+  
+### Project Manager (University Of Leipzig), 2013-2014
+
+Greta Franzini  
+  
+### Technical Manager (University Of Leipzig), 2013-2015
+
+Frederik Baumgardt  
+  
+### Project Assistant (University Of Leipzig), 2013-2014
+
+Simona Stoyanova  
+  
+### Markdown and PDF Production
+
+This version was produced by [TEItoCEX](https://github.com/ThomasK81/TEItoCEX) written by Thomas Koentges.
+
+# Acta Archelai
+
+### Chapter 1
 
 <pb n="1"/>
 <head>ACTA ARCHELAI.</head>
@@ -74,9 +105,10 @@ facti stupore permoti esemplo miaericordiae commOTentar, ita ut plurimi
 ex ipais adducerentur ad fidem domini noatri leau Christi, derelicto
 militiae cingulo; alii rero, vix quarta pretionun portione suacepta, ad
 propria castm diacederent; ceteri autem parum omnino aliqnid quantam
-<lb n="10"/> viatico sufGceret accipientes abirent.</p>  
+<lb n="10"/> viatico sufGceret accipientes abirent.</p>
 
-## §2  
+
+### Chapter 2
 
 <p>His itaqiie gestia laetus erat valade Marcellus et, accito uno ex
 captivis Cortjnio nomine, perquirebat ab eo causam belli Tel quo caau
@@ -128,9 +160,10 @@ propriis indulserunt verceribus, interitns softem sponte sibi parem cum
 <lb n="15"/> filiis praesuiopserant; si quae vero habere aliqmd tolenntiae potaemnt,
 captivae buc uaque perductae sunt. Triduo itaqne exacto, cum ne
 noctibus quidem aliquam requiem cepissemua, ad locom hunc perdu-
-cimur, in quo poat haec iam quid gestom sit melius ipse tu nosti.</p>  
+cimur, in quo poat haec iam quid gestom sit melius ipse tu nosti.</p>
 
-## §3  
+
+### Chapter 3
 
 <p>His auditis piissimus Marcellus plurimum in lacrimas profnaus
 <lb n="20"/> est, miaeratua tantos et tarn varios casus; sed nihil moratos, cibos prae-
@@ -174,9 +207,10 @@ ad eum concurrebant; inbeccilli qnoque anxilium sibi de eo certiasimum
 quid amplius dieam? Amator paupernm Marcellus cognominatns est
 domusque eius peregrinprum et panpenim bospitium dicebatur; super
 omnia vero fidei curamegregie ac singulariter retbebat, aedificans cor
-suum super inmobilem petram.</p>  
+suum super inmobilem petram.</p>
 
-## §4  
+
+### Chapter 4
 
 <p>Igitar cum diversis in locis de eo fama saepissime spargeretnr,
 etiam Stranga fluvio superato, Persanim in regione enm pertulit admirandum	 in qua demorabatur Manes quidam, qui ad se huinscemodi viri
@@ -222,9 +256,10 @@ missus. At illi ignotum sibi nomen noa libenter amplexi, <lb n="5"/>
 bibendum facultate concessa; quae cum singula cotidie atque horum
 nequiora perferret ab bis qui per singula loca mansionibus atque hospitiis
 praeerant, nisi ad ultimum Marcello se portare litteraw indicasset,
-peregrinus Turbo mortis pertulisset exitia.</p>  
+peregrinus Turbo mortis pertulisset exitia.</p>
 
-## §5  
+
+### Chapter 5
 
 <p>Acceptas vero Marcellus litteras resolvit ac relegit, praesente
 Archeiao civitatis episcopo, quarum exemplum est hoc:</p>
@@ -303,9 +338,10 @@ parcere. . festinas] sehr freie bersetzung</note>
 <pb n="8"/>
 
 inicio, sicut plurimi insipientium faciunt Intellege quae dico, fili
-honorabilis.</p>  
+honorabilis.</p>
 
-## §6  
+
+### Chapter 6
 
 <p>Hac epistula lecta, baiulum litterarum Marcellus obsequentissimo
 fovebat hospitio; Archelaus vero ea quae lecta sunt dod libenter amplexus
@@ -344,9 +380,10 @@ non prospera praesagatus, et quasi consulto itinere ad Marcellum perrexit
 Turbo vero de Marcelli domo prorsus non discedebat nec ab <lb n="5"/>
 Archelai confabulatione oessabat; valde enim studiose uterque de Manis
 studiis perquirebant, scire cupientes quis et unde vel quid verbi ferat At
-<lb n="10"/> ille universa dilucide enarravit, repetens et exponens de fide eius hoc modo:</p>  
+<lb n="10"/> ille universa dilucide enarravit, repetens et exponens de fide eius hoc modo:</p>
 
-## §7  
+
+### Chapter 7
 
 <p>VII. Si fidem Manis diecere a me vultis, breviter audite. Hic duos<lb n="2"/>
 colit deos innatos, ex semet ipsis eztantes, aeternos, unum uni adversantem;
@@ -406,9 +443,10 @@ principes . . . ei] princepe repognantese Μ | 24 animam A Μ | 26 orante Α |
  
 nichaei cum sibi inTieem occunnDt, daot sibi dexteras huius sigoi gratiu,
 <lb n="15"/> tamqaam ex tenebris liberati; in tenebris enim omnig hereais esse
-dicitnr.</p>  
+dicitnr.</p>
 
-## §8  
+
+### Chapter 8
 
 <p>VIII. TiiDC Tivena spiritns crearit mandum, et indutns alias trea
 Tirtntes, deBcendens eduxit priacipes et crucifizit eoa in firmamento,
@@ -476,9 +514,10 @@ antem boni patris omnem animam atqae omne animal quod
 movetur partem trahere confirmat. Cum igitur luna onus quod gerit
 animarum saeculis tradiderit patris, permanent illa in columna gloriae,
 <lb n="25"/> quod Tocatur vir perfectus. Hic autem vir est columna lucis; repleta
-est enim animarum mundarum, et haec est causa salutis animarum.</p>  
+est enim animarum mundarum, et haec est causa salutis animarum.</p>
 
-## §9  
+
+### Chapter 9
 
 <p>IX. Mortis vero causa hominibus est ista: Virgo quaedam decora
 et exomata, elegans valde, furto adpetit principea qui sunt in firma-
@@ -530,9 +569,10 @@ mortem A | hoc enim M ~ M2 | 27 magni] imaginis Μ | 28 rnrsum AC</note>
 fuerit a virgine, tunc incipit ezcidere radices bomiiiuni; et cum excisae
 foerittt radices eorum, eflicitur pestilentia et ita moriuntur. Quod si
 superjores partes radicis validius concusserit, fit terraemotus et insequitur
-Homofori concussio; et haec est mortis occasio.</p>  
+Homofori concussio; et haec est mortis occasio.</p>
 
-## §10  
+
+### Chapter 10
 
 <p>X (IX). Dicam autem vobis quomodo et auimae in olia quoqne
 corpora transfunduntur. In hoc primo purgatur aliqaid ex ea partim;
@@ -600,9 +640,10 @@ oboriuntnr. Et illi dicunt, si quis ambnlat in terra, laedit terram, et
 qui movet manum, laedit aërem, quia aër anima est hominum et animalium
 <lb n="25"/> et volatilium et piscium et repeotium et si quid est in hoc
 mundo; dixi enim vobis, quia corpus hoc non est dei, sed materiae est
-tenebramm, et ideo iltud necesse est obscurari.</p>  
+tenebramm, et ideo iltud necesse est obscurari.</p>
 
-## §11  
+
+### Chapter 11
 
 <p>ΧΙ (X). Paradisus autem qui vocatur mundus. Arbores quae in
 ipso sunt coucnpisceutiae sunt et ceterae aeductiones cormmpentes cogitationes
@@ -644,9 +685,10 @@ ad confinnationem fidei huius; nomina tamen mibi non manifestavit,
 soli enim illi teptem utuntur his nominibus. Et iterum boc, quod apud <lb n="5"/>
 vos magnum et bonorabile est, nomen Sabaoth ille dicit naturam esse
 hominis et paixem concupiscentiBe; et propteiea, inquit, simpliciores
-<lb n="25"/> adorant concupiscentiam, demn eam pntantes.</p>  
+<lb n="25"/> adorant concupiscentiam, demn eam pntantes.</p>
 
-## §12  
+
+### Chapter 12
 
 <p>XII. De Adam vero quomodo creatus sit, ita dicit, quia qui dicit:
 Venite, faciamus hominem ad imaginem et gimilitudinem nostram, et
@@ -695,9 +737,10 @@ A Ι haec Α | 27 mittet C | 27/28 id est] fehlt bei Epiphanius Ι 28 nach est
 <pb n="21"/>
 quicumque in illum deum sperant, qui cum Moyse locutus est et prophetis,
 cum ipso habent vinculis tradi, quia non speraverunt in deutn
-veritatis; ille enim secundum concupiscentias suas locutus est cum eis.</p>  
+veritatis; ille enim secundum concupiscentias suas locutus est cum eis.</p>
 
-## §13  
+
+### Chapter 13
 
 <p>Post haec vero omnia ad ultimum dicit, sicut ipse senior
 scripsit: cum manifestam fecerit eius imaginem, tunc ipse Homoforus
@@ -730,9 +773,10 @@ in superioribus, quae sua sunt recipiens. Haec est omnis doctriua quam <lb n="4"
 tradidit tribus discipulis suis et iussit eos in tres mundi plages proficisci;
 ex quibus Adda partes sortitus est Orieatis, Thomas vero Syrorum
 terras accepit; Hermas vero ad Aegyptum profectus est; et usque
-<lb n="15"/> in hodiernum ibi degunt dogmatis huius gratia praedicandi.</p>  
+<lb n="15"/> in hodiernum ibi degunt dogmatis huius gratia praedicandi.</p>
 
-## §14  
+
+### Chapter 14
 
 <p>XIV (XII). Haec cum Turbo dixisset, vebementer accendebatur
 Arcbelaus; Marcellus vero non monebatur, deum expectans auxilio veritati
@@ -777,9 +821,10 @@ conventus, ita ut domus Marcelli, quae erat inmensa, repleretur ex his
 qui ad audieudum fuerant convocati; et cum in conspectu onmium constitissent
 ii qui adversum se dicere proponebant, tum illi electi iudices
 <lb n="15"/> excelaiores omnibus consederunt atque Mane dicendi initium datum est
-Silentio igitur facto plurimo, adgressus eat boc modo.</p>  
+Silentio igitur facto plurimo, adgressus eat boc modo.</p>
 
-## §15  
+
+### Chapter 15
 
 <p>(XIII). Ego, viri fratres, Christi quidem aum diacipulns, apostolus
 vero lesu: pro nimia autem humanitate Marcelli adesse festinavi,
@@ -899,9 +944,10 @@ falsche Übersetzung, Zacagni erg:anzt observetis | 80 reaedificio C aedifico Μ
 <pb n="26"/>
 praevaricatorem me constituo. Hoc autem dicit, gentiles eos iudicans,
 propter quod sub elementis mundi essent, priusquun veniret pleuitudo
-fidei, credentes in lege et propbetis.</p>  
+fidei, credentes in lege et propbetis.</p>
 
-## §16  
+
+### Chapter 16
 
 <p>(XIV). Iudices dixerunt: Si quid adbuc manifestins habes,
 <lb n="5"/> dic de doctrinae tuae modo et fidei titulo. Makes dixit: Ego duas
@@ -963,9 +1009,10 @@ confiteri Quod si non sumus similes in signaculo, sed est in nobis <lb n="10"/>
 differentia, quomodo non probatur principum nos et materiae esse facturam?
 Secundum enim ipsorum formam et similitudinem et imaginem
 etiam nos existimus formae diversae. Quod si eam quae ex initio facta
-<lb n="20"/> commixtio est et qualiter facta sit vultis addiscere, edicam.</p>  
+<lb n="20"/> commixtio est et qualiter facta sit vultis addiscere, edicam.</p>
 
-## §17  
+
+### Chapter 17
 
 <p>(XV). Iudices dixerunt: Non prius quaeritur quomodo facta
 sit prima commixtio, nisi prius detur ratio duo esse principia naturalia.
@@ -1015,9 +1062,10 @@ ad contraria spectat; convertibilem vero, quantum ad propria. Ego
 vero dico, quia qui in propriis vertitur non excedit a se, sed est in
 eisdem quibus semper est inconvertibilis; qui vero recipit convertibilitatem,
 hic extra propria effectus, devenit in aliena.</p>
-<lb n="25"/>  
+<lb n="25"/>
 
-## §18  
+
+### Chapter 18
 
 <p>(XVI). Iudices dixerunt: Convertibilitas illum, cui accidit,
 transfert in alium; ut si dicamus, ludaeus, si velit fieri Christianus, aut
@@ -1067,9 +1115,10 @@ quod creatio hominis causa invenitur extitisse malitiae. Sed postremo <lb n="7"/
 <lb n="25"/> dicat quid est malum, ne forte nomen solum defendat ant adstruat
 Quod si non nomen mali, sed substantia, fructus nobis malitiae et nequitiae
 huius exponat, quoniam non agnoscitnr umquam arboris natura
-sine fructu.</p>  
+sine fructu.</p>
 
-## §19  
+
+### Chapter 19
 
 <p>(XVII). Manes dixit: Constet apud te prius, quia est radix
 <lb n="30"/> alia malitiae, quam non plantavit deus, et tunc tibi dicam fructus eius.
@@ -1141,9 +1190,10 @@ est, quia ipse sit fructus, etiam si peccet, etiam si non peccet;
 unde semel absolute nomen hominum et genus tale est, etiam si iusta
 gesserit aut iniusta. Archelaus dixit: Sed et illius rei faciamus mentionem.
 <lb n="10"/> Si ipse, ut ais, hominem fecit malignus, quare malitiam exercet
-adversus eum?</p>  
+adversus eum?</p>
 
-## §20  
+
+### Chapter 20
 
 <p>(XVIII). Iudices dixerunt: Hoc volumus scire a te, Manichaee,
 quomodo illum adfirmasti malum esse? Ex eo quo homines facti sunt
@@ -1203,9 +1253,10 @@ invenitur secundum adsertionem, videlicet, tuam. Quod si ita <lb n="11"/>
 est, quomodo homo, qui ingenio atque scientia non parum pollet, ab
 eo, qui ignarus omnium atque hebes sensu est, potuit accepisse substantiam?
 <lb n="25"/> Quomodo huiuscemodi auctoris opus esse hominem audebit
-aliqnis confiteri?</p>  
+aliqnis confiteri?</p>
 
-## §21  
+
+### Chapter 21
 
 <p> Quod si homo anima est et corpus, et non solum corpus sine
 anima, quae sine se invicem subsistere non possunt, quare ea incimica
@@ -1247,9 +1298,10 @@ adsumentum panni rudis adsntum non esse veteri vestimento, sed novo.
 <lb n="20"/> Sed et ex hoc ostendere possumus consonantiam esse virtutum in utraque, <lb n="6"/>
 id est corporis atque animae, substantia, in qua ait scripturarum doctor
 maximus Paulus, deum in corpore, sicut voluit, unumquodque membrum
-posuisse.</p>  
+posuisse.</p>
 
-## §22  
+
+### Chapter 22
 
 <p>(XIX). Quod si id tibi difficile videtur intellectu nee
 <lb n="25"/> adquiescis his dictis, saltem exemplis tibi adfirmabo. Intuere hominem
@@ -1301,9 +1353,10 @@ atque animae libertate, quo velut gubematore utimur; quae cum
 coniunctione unum effecta consonantiam officii sui continent ad omne opus,
 quodcumque ex semet ipsis efflciunt, uni suctori et conditori testimonium
 ferunt.</p>
-<lb n="30"/>  
+<lb n="30"/>
 
-## §23  
+
+### Chapter 23
 
 <p>(XX). His auditis, turbae quae aderant vehementer gavisae
 sunt, ita ut paeue manus inicerent in Manen, quos vix Archelaus cohibens
@@ -1344,9 +1397,10 @@ duos introducens, inimicitias inter eos discordemque sententiam non
 erubescit adstruere. Quod si multos sub huiuscemodi condiciooe introduceret
 deos, ludum iam gladiatorium inter eos erat videre, innumeras
 babentes naturas diversasque sententias.</p>
-<lb n="25"/>  
+<lb n="25"/>
 
-## §24  
+
+### Chapter 24
 
 <p>(XXI). Iam vero de interiori atque exteriori homine quid
 me necesse est dicere, cum salvatoris voce dicatur ad eos qui camelum
@@ -1391,9 +1445,10 @@ hominum subicere potuerunt, ita ut non esset alins inperator per illud
 tempus praeter ipsos sub caelo. Et quomodo audebit quisqnam dicere <lb n="8"/>
 non ubique esse deum, qui est lumen verum indeficiens, cuius est regnum
 sanctum et sempitemum? Heu nequissimi istius inpietas, qui nec
-<lb n="23"/> aequalem quidem cum hominibus potestatem omnipotenti deo tribuit!</p>  
+<lb n="23"/> aequalem quidem cum hominibus potestatem omnipotenti deo tribuit!</p>
 
-## §25  
+
+### Chapter 25
 
 <p>(XXII). Iudices dixerunt: Lumen in toto mundo lucere
 scimus et non in una aliqua parte; sicut et Jesus dicit quia nemo lucernam
@@ -1466,9 +1521,10 @@ quidem mihi simplicius dicta sint, cum possim et zodiacum circtdum
 describere; sed non in tuto nunc fieri ratus sum, propter quod de his
 silebo et ad illud caput recarram quod obiecit adTersarius, adfirmans
 omni nisu tenebras esse ingenitas, quod et ipsum quantum valuimus
-<lb n="10"/> iam confutatum est.</p>  
+<lb n="10"/> iam confutatum est.</p>
 
-## §26  
+
+### Chapter 26
 
 <p>(XXIII). Iudices dixerunt: Si consideremus lueem fuisse
 ante conditionem creatiirarum et nihil fiiisse obiectum quod ex se umbram
@@ -1512,9 +1568,10 @@ murum. Quid agebat alter, altero instrueute? Dormiebat aut
 ignorabat aut resistere non valuit aut pretio coacessit? Dic quid faciebat
 vel quis est omnino qui extruxit Vos deprecor, iudices, quos deus
 plenissime repletos intellectu misit, vobis dicat qnis ex duobus extruxerit
-<lb n="10"/> et quid agebat unus cum alter extmseriti.</p>  
+<lb n="10"/> et quid agebat unus cum alter extmseriti.</p>
 
-## §27  
+
+### Chapter 27
 
 <p>(XXIV). Iudices dixbsdnt: Dic nobis, ο Manes, quis designaverit
 fines utriusque regni, quis murum fecerit medium? Pro magno
@@ -1577,9 +1634,10 @@ et conprehendit, euangelista testimonium ferente quia lux lucet in
 <lb n="25"/> tenebris et tenebrae eam non conprehendentnl? Quomodo caecus armatur?
 Quomodo tenebrae adversus lucis regnum dimicant? Sicut enim inbeccilli <lb n="12"/>
 oculi solis radios in se recipere non possunt, ita et hic ferre
-non valet regni lncis intuitum, sed manet semper extraneus et alienus.</p>  
+non valet regni lncis intuitum, sed manet semper extraneus et alienus.</p>
 
-## §28  
+
+### Chapter 28
 
 <p>(XXV). Manes dixit: Non omnes capiant verbum dei,
 <lb n="30"/> sed qaibus datum est scire mysteria regai caelorum. Et iam quidem
@@ -1653,9 +1711,10 @@ Et sicut rex aliquis, bello sibi inlato, nequaquam propria virtute confisus, <lb
 <lb n="10"/> sed inbeccillitatis suae timore pertemtus, muris ipse urbis inclusus
 vallos aliaque munimenta circumdat ac praeparat, manu ac viribus nibil
 fidens; si vero vir fortis sit, etiam porro a suis finibus in occuraum
-bosti procedit et agit omnia usquequo vincat et obtineat adversarium.</p>  
+bosti procedit et agit omnia usquequo vincat et obtineat adversarium.</p>
 
-## §29  
+
+### Chapter 29
 
 <p>(XXVI). Iudices DIXERUNT: Si ais paatorem hedum sive
 <lb n="15"/> agnum leoni proiecisae, cum ille inrueret adversum ingenitum, actum
@@ -1673,9 +1732,10 @@ Tu me leoni tradidisti nec restitisti adversus eum, sciens et praevidens quae <l
 mihi gerenda forent, cum eius me necesse esset obtemperare praeceptis.
 Et ne multa dicamus, neque deus perfectus pastor ostenditur neque
 leo alienos cibos percepisse demonstratur; et ideo ipsa veritate edocente
-<lb n="30"/> damit his quae ab Arcbelao dicta sunt palmam nos debere conferre.</p>  
+<lb n="30"/> damit his quae ab Arcbelao dicta sunt palmam nos debere conferre.</p>
 
-## §30  
+
+### Chapter 30
 
 <p> Archelaus DIXIT: Quoniam quidem de omnibus quibus
 disceptavimus prudentia iudicum plenissimum terminum posuit, tacendum
@@ -1712,9 +1772,10 @@ et confugatus etiam ex hoc, quod post multum tempus quam
 <lb n="20"/> promissum fuerat, adesse deaideret, neque claves neque signacula neque
 ullum omnino custodibus indicium deferens, non quantitatem frumenti
 reconditi sciens; quae omnia manifesta indicia sunt nequaquam eum ab
-illo esse transmissum, et ideo consequenter a custodibus refutatus est.</p>  
+illo esse transmissum, et ideo consequenter a custodibus refutatus est.</p>
 
-## §31  
+
+### Chapter 31
 
 <p>(XXVII). Aliud etiam, si videtur, dicimus exemplum. Homo
 <lb n="25"/> quidam paterfamiliaa dives plunmum, ad tempus peregre afuturus, filiis
@@ -1780,9 +1841,10 @@ tyberio M | 23 et de iudicio &lt; C | 24 probo a. Ras. C | cur] Traube | 27
 delinquimus C | 28 hoc] hanc | omnie] Zatogni. omne CM | 30 donans
 C | 31 abundantibus | confitens C</note>
 
-<pb n="45"/>  
+<pb n="45"/>
 
-## §32  
+
+### Chapter 32
 
 <p>(XXVIII). MANES DIXIT: Tuomet ipsius indicio conprehensus
 es, haec enim adversum te locutus ignoras quia dum &lt;in&gt; me vis
@@ -1844,9 +1906,10 @@ ea quae hominibus expediunt, iustitiam consequentur? Et quoniam tritim <lb n="11
 solummodo sermonum mentionem fecisti, de quibus apostolus dixit,
 <lb n="15"/> ministerium mortis esse legem et Christum redemisse nos de maledicio
 legis, et quoniam virtus peccati est lex, adde adhuc, et die quantacumque
-tibi videntur adversum legem esse conscripta.</p>  
+tibi videntur adversum legem esse conscripta.</p>
 
-## §33  
+
+### Chapter 33
 
 <p>(XXIX). MANES DIXIT: An non idem est, quod Iesus ad
 discipulos aiebat incredulos eos esse demonstrans: Vos ex patre diabolo
@@ -1896,9 +1959,10 @@ enim vis discernere. ARCHELAUS DIXIT: Quia tu verba illa ita protulisti, <lb n="
 tsmquam tibi proficerent ad ostensionem ingenitae radicis; sufficiunt
 <lb n="20"/> tamen nobis ea quae supra tractata sunt, in quibus plenissime
 ostendimus inpossibile esse duarum naturarum ingenitsrum existere
-posse substantias.</p>  
+posse substantias.</p>
 
-## §34  
+
+### Chapter 34
 
 <p>(XXX). IUDICES DIXERUNT: Dic ad ea quae nuper proposuit,
 o Archelae. ARCHELAUS DIXIT: Principem mundi et malignum et
@@ -1970,9 +2034,10 @@ absorta est mors in victoria. Hao ergo ex causa minislerium mortis appellata
 est lex, qnia peccantea et praevaricantes morti tradebat, serrantes autem
 se defendebat a morte et constituebat in gloria, ope atque auxilio
 domini nostri Iesu Christi.</p>
-<lb n="5"/>  
+<lb n="5"/>
 
-## §35  
+
+### Chapter 35
 
 <p>(XXXI). Audi etiam et de eo quod dictum est: Qui redemit
 nos de maledicto legis Christus. Hoc in loco pervideo magnificum dei
@@ -2042,9 +2107,10 @@ et ideo virtutem peccati sui penitus igoorabant; quae cum regressus <lb n="11"/>
 agnovisset Moyses, praecepit eos gladio trucidant, ex quo initium factum
 est sentire eos virtutem peccati per legem Moysi et propterea virlus
 peccati appelata est lex.</p>
-<lb n="30"/>  
+<lb n="30"/>
 
-## §36  
+
+### Chapter 36
 
 <p>XXXII). De eo vero quod in euangelio scriptum est,
 vos de patre diabolo estis et reliqua, breviter dioimus quia est diabolus
@@ -2120,9 +2186,10 @@ dei &lt;non&gt; servare maudata, etiam sie plurimnm mens sermo
 praecedit, dicens primo diabolum eo quod mandatum non servaTerit decidisse,
 non enim erat ex dei substantia; decidit non tam ut laederet
 humanum genus, sed ut ab eo potius inluderetur; dedit enim nobis potestatem
-<lb n="20"/> calcandi super serpentes et scorpiones et omnem virtulem inimiei.</p>  
+<lb n="20"/> calcandi super serpentes et scorpiones et omnem virtulem inimiei.</p>
 
-## §37  
+
+### Chapter 37
 
 <p>(XXXIII). loDiCES dixebunt: Sufficienter osteudit de origine
 diaboli. Cum enim utraque pars confiteretur ftittirum esse iudicium,
@@ -2231,9 +2298,10 @@ M | et] übergesch. M | 28 per bucellam in eum M die Wortfolge corr.
 
 <pb n="55"/>
 gerebat in utero; postea vero quam confugit ad laqueum, non integnini
-videtor fdidisse partam, qaia poenitentia subsecuta est.</p>  
+videtor fdidisse partam, qaia poenitentia subsecuta est.</p>
 
-## §38  
+
+### Chapter 38
 
 <p>(XXXIV), Ignorare antem cos non arbitror quouiam pater
 ujiam qnidem sit nomen, diversoa tarnen habet intellectus: alias
@@ -2322,9 +2390,10 @@ quae in Christo est. Si enim is qui venit alium Iesum praedicat quem
 non praoiieammus, aut spiritum alium aeceperitis quem non accepistis, aul
 aliud euangelium quod non accepistis, bene pateremini. Pulo enim quia
 nihil minus feci vobis a ceteris aposiolis.</p>
-<lb n="5"/>  
+<lb n="5"/>
 
-## §39  
+
+### Chapter 39
 
 <p>(XXXV). Haec autem dixit, ostendens omnes reliquos qui
 venerint falsos apostolos, dolosos operarios, transfigurantea se in apostolos
@@ -2393,9 +2462,10 @@ dicens: GertoTnen bonum certavi, circum eucurri, fidem servavi. De
 eetero reposita est mihi iustitiae corona, quam reddel mihi dominus in ill
 die iustus iudex; non aolum aulem mihi, sed et omnibus qui diligunt aduentum
 eius.</p>
-<lb n="30"/>  
+<lb n="30"/>
 
-## §40  
+
+### Chapter 40
 
 <p>(XXXVl). Nullum ex nobia, o Manes, Galatam facies, ut cito
 nos tranaferaa a fide Christi. Etiam si signa et prodigia facias, etiam si
@@ -2458,9 +2528,10 @@ plarimos deterreng arrogantiae metu quo est ipse circumcteatus? Aliis
 adhibet minas vultus aui cooTersione, circumdatione ludificat; sed ultra
 non proficiet, insipientia enim eius omnibus pervulgata erit, siciit laooes
 et Mambres,</p>
-<lb n="5"/>  
+<lb n="5"/>
 
-## §41  
+
+### Chapter 41
 
 <p> luDiCES dixebont: Sicut ex te comperimaB, tamquam a postolo
 Paulo dicente, insuper etiam ab euangelio praescribeDte, nulli alicui &lt;in&gt;
@@ -2531,9 +2602,10 @@ sicut superlua diximus, destiuentur. Sed quia caeleatis regis praesentiam <lb n=
 paucis verbis et fragilibus et valde infimis exponere non valet humana
 natura, ut fortasse sanctorum debeat esse et valde dignorum de ipao
 <lb n="30"/> aliquid enarrare, tamen necessitatis causa ista me sufficit protulisse
-huins inportnnitate coopulsum, uti istum vobis qualis esaet ostenderem.</p>  
+huins inportnnitate coopulsum, uti istum vobis qualis esaet ostenderem.</p>
 
-## §42  
+
+### Chapter 42
 
 <p>(XXXVIIl). Et ego qnidem beatifico Marcionem et Valentinianum
 ac Basilidem aliosque hereticos, sicut iatius conparatione, qui
@@ -2605,9 +2677,10 @@ esse mentitur, psendopropheta utique indicandus est Sed et multa alia
 horum similia dici possunt, quae si omnia persequi velimus, nnllum
 <lb n="15"/> nobis tempas ad omnia explenda sufficiet. Uude abnndare existimavi
 de multis pauca dixisse, reliqnas partes tractatus huins plenius exeqni
-Tolentibns derelinquens.</p>  
+Tolentibns derelinquens.</p>
 
-## §43  
+
+### Chapter 43
 
 <p>(XXXIX). His anditis dedernnt gloriam deo inmensam et
 ipso dignam; Archelanm vero multis honoribns adfecerunt. Tunc Marcellus,
@@ -2643,9 +2716,10 @@ Diodorus, quietus et mitis, fidei ac famae bonae valde; et com quadam <lb n="5"/
 die Manes, congregata turba, contionaretur ac peregrina quaedam et
 aliena a patema traditione populo qui adstabat adsereret, nollum es his
 omnino formidans, quod sibi poasit obsistere, Diodorus videns proficere
-<lb n="10"/> eius nequitiam deliberat Arcbelao mittere epistulam continentem haec.</p>  
+<lb n="10"/> eius nequitiam deliberat Arcbelao mittere epistulam continentem haec.</p>
 
-## §44  
+
+### Chapter 44
 
 <p>(XL). Archeiao episcopo Diodorus salutem dicit. Scire
 te Tolo, religiosissime pater, quoniam adrenit quidam iu diebus istis
@@ -2706,9 +2780,10 @@ in lege puniri lapidarique praeceperit, sicut factum est ei, qui adbuc
 igDorans in sabbato fascem ligni collegerat; lesus vero in sabbato etiam <lb n="10"/>
 <lb n="25"/> lectum portarc praecepit a se curato, aed et discipulos in die sabbati
 vellere spicas ac manibus confricare non profaibet, quod sabbatis utique
-fieri non licebat.</p>  
+fieri non licebat.</p>
 
-## §45  
+
+### Chapter 45
 
 <p> Et quid plura dicam? multis et variis adsertionibus huiuscemodi
 dogmata ab eo summo nisu atque summo studio adfirmabantur.
@@ -2768,9 +2843,10 @@ praeparare et proximos] prepararet proiimns C | ac] hac C Ι 29 iis] his
 
 <pb n="67"/>
 recepturus. Incolumis mihi eatio, pater inconparabilis et
-honorabilis.</p>  
+honorabilis.</p>
 
-## §46  
+
+### Chapter 46
 
 <p>(XLl). Accepta hoc epistula, Archelana adtoiratus est hominis
 audaciftm; sed ioterim Diodori allegatiocibus, ut res suadebat celerem
@@ -2865,9 +2941,10 @@ sine dubio quae domi a toli magistro didicissent. Rogavit divee aitnul <lb n="14
 uno tempore ut ediscerent maiorem doctrioam; Abraham vero scietts
 quoniam adhnc indigent pedagogo, ait ei: Habent Mojsen et propfaetas.
 Si euim illos non susceperint, at ab eo velut pedagogo gubementur, non
-<lb n="10"/> poteruat maioris magistri capere doctrinam.</p>  
+<lb n="10"/> poteruat maioris magistri capere doctrinam.</p>
 
-## §47  
+
+### Chapter 47
 
 <p>(XLII). Sed et de aliis aermonibus, ntpotero, exponam; id
 est qaod non contraria Moyai locutns est Jesus aut fecit Primum quidem
@@ -2917,9 +2994,10 @@ habere plus quam omnem Istrahel; ut si quis fuerit, etiam qui renuntiaverat,
 a centurione superaretur in fide. Sed dicet nobis quis: Non est <lb n="6"/>
 ergo bonum rennntiare divitiis? Bonum, inquam, his qui possuntj sed
 <lb n="15"/> et abuti divitiis ad opus iustitiae atque misericordiae parem gratiam
-tribuit ac si universis pariter renuntietnr.</p>  
+tribuit ac si universis pariter renuntietnr.</p>
 
-## §48  
+
+### Chapter 48
 
 <p> De eo autem quod dicit, destructum esse sabbatnm,
 non plane destnixit; ipse enim dominns erat sabbati; tamquam si
@@ -2995,9 +3073,10 @@ rum ab eo detestanda est: ita etiam ego gratia dei dives factus sum, <lb n="9"/>
 et cordis circunicisionem coDsecntus nequaquam viUssimae illius circumcisionis
 indigeo; nee tarnen malam esse dico. Absit. Qnod si
 diligentius de bis Yoluerit aliquis edoeeri, inveniet baec in prima epistula
-<lb n="5"/> apostoli plenissime pertractata.</p>  
+<lb n="5"/> apostoli plenissime pertractata.</p>
 
-## §49  
+
+### Chapter 49
 
 <p>(XLIII). De velamento vero Moysi et de ministerio mortis
 dicam sermone brevissimo. Non enim valde mibi baec insinuare aliquid
@@ -3052,9 +3131,10 @@ dicit, positum supra cor eorum, in Ucivme eorum. Haec est vox quae
 arguit filios Istrahel legentes Moysen et non intellegentes neque convertentes
 se ad dominom, quoniam ipse est qui a Moyse prophetatus est
 venire.</p>
-<lb n="15"/>  
+<lb n="15"/>
 
-## §50  
+
+### Chapter 50
 
 <p> Hoc est velamen quod erat positum super faciem Moysi, quod
 est testamentum eiua; ait enim in lege: Non defuiet prineeps ex luda neque
@@ -3109,9 +3189,10 @@ causa velamen positum super cor quorundam in lectione veteris testamenti.
 Quicumque vero ad dominum convertuntur, ab bis velamen aufertur.
 Quae omnia quam vim habeant in sese bis qui sensu rigent
 intellegendum reliuquo.</p>
-<lb n="25"/>  
+<lb n="25"/>
 
-## §51  
+
+### Chapter 51
 
 <p> YeniamuB etiam ad illum sermouem Moysi quod ait: Prophetam
 vobis suseitabit dominus deus vester ex fratribus vestris sicut me; in
@@ -3182,9 +3263,10 @@ salutem dedit. Sed et alia multa praetereo, dilecfcissime Diodore, dam <lb n="8"
 <lb n="5"/> festino ad te libellnm faunc velociter mittere, quae tu pro tna pradentia
 facile poteris reparare, Scribe autem mihi, canesime, quid postea egerit
 adTersariae partis minister. Incolumem te anima et spiritu cnstodiat
-deua omnipotens.</p>  
+deua omnipotens.</p>
 
-## §52  
+
+### Chapter 52
 
 <p>(XLV). Accepta bac epistula Diodorus et collecto es ea sensu
 <lb n="10"/> conflixit adversum Manen, ita ut ab omnibns conlaudaretor, quod diligenter
@@ -3244,9 +3326,10 @@ veterem legem non esse altierius quam domini, cuius est et novum testamentum,
 <lb n="20"/> quae nos conpetenter expouere et aptare conrenit lam vesper
 inpedit; dies enim clauditnr et finem nos disputandi facere par est;
 crastino autem nobis de quibus tibi ridetur quaestiones habeantur. Et
-his dictis discesserunt.</p>  
+his dictis discesserunt.</p>
 
-## §53  
+
+### Chapter 53
 
 <p>(XLVI). Com autem mane factum esset, subito adventarit
 <note type="footnote">1 II Tim. 3, 8. 9 — 10 Joh. 1, 16. 17 — 14 Job. 5, 45—47</note>
@@ -3317,9 +3400,10 @@ caelestia, ignoranti vero quae domi suae geruntur. Sed ne videar per <lb n="9"/>
 haec verba differre quaestiones, iam sileam; de iis vero dabo ipsi potestatem:
 <lb n="5"/> sumat quodcomque vult propositionis et quaestionis initium. Vos
 tantummodo, sicut superius dixi, indeclinabiles iudices esse quaeso, ut
-vera dicenti honorem venun palmamque tradatis.</p>  
+vera dicenti honorem venun palmamque tradatis.</p>
 
-## §54  
+
+### Chapter 54
 
 <p>(XLVII). Tunc Manes, silentio ab onmibns facto, ita exorsus
 est: Tu quoque, Archelae, bene me de deo sentientem dignamque opinionem
@@ -3381,9 +3465,10 @@ et non natum esse. Quod si potentior illo es et magis scire potes
 quod verum est, quomodo iam illi credimus? Archelaus dixit: Neque
 illo potentior som, servus enim sum, et neque aequalis domini mei esse
 <lb n="25"/> possum; ego enim sum inutilis servus, verborum eius discipulus, credenis
-his quae ab ipso dicta sunt, et haec indeclinabilia esse confirmo.</p>  
+his quae ab ipso dicta sunt, et haec indeclinabilia esse confirmo.</p>
 
-## §55  
+
+### Chapter 55
 
 <p> Manes dixit: Similia tui quidam cum ei aliquando dixiss(?)et:
 Maria mater tua et fratres tui foris statu, non libenter aecipiens eum (??) qui
@@ -3425,9 +3510,10 @@ restituit, Si ergo de Maria vis esse eum natum, mentitur ipse <lb n="7"/>
 cum Petro; si autem verum dicit Petrus, sine dubio ille prior fefellit.
 Quod si prior fefellit, causa ad scriptorem reicienda est Unum igitur
 Christum nos scimus esse secuudum apostolum Paulum, cuins vocibus
-<lb n="25"/> credimus consonantibus dumtaxat adventui eius.</p>  
+<lb n="25"/> credimus consonantibus dumtaxat adventui eius.</p>
 
-## §56  
+
+### Chapter 56
 
 <p>(XLVIII). His auditis turbae permotae sunt, velut ratioaem
 veritatis continentibus et Archeiao nil habente quod bis posset opponere;
@@ -3471,9 +3557,10 @@ Ibo et aepeliam patrem meum, ait: Dimitte mortuos sepelire mortuos suos.
 Intuere ergo quomodo dominus meus leans ad necessaria discipulos aedificat
 et pro meritis nuicnique aancta verba committit. Ita et in eo tempore
 <lb n="25"/> quo inportune adnuntiaverat qaidam ei de matre, non amplectitur
-pro matris praesentia paternum praeterire praeceptum.</p>  
+pro matris praesentia paternum praeterire praeceptum.</p>
 
-## §57  
+
+### Chapter 57
 
 <p> Ut autem tibi ostendam haec ita esse: Petrus aliquando,
 cum iam beatificationem fuisset ab eo consecutus, ait ad lesum; Propitius
@@ -3542,9 +3629,10 @@ curanti eos qui multo tempore variis infirmitatibus fuerant devincti et
 inclinato omni nisu pro salute universitatis, ille nuntius inportune adveniens
 de matre et fratribus nuntiavit Et potuit quidem similem Petro
 aut etiam graviorem excepisse sententiam; sed matris et fratrum interiectum
-<lb n="10"/> iectum nomen clementiam domini provocavit.</p>  
+<lb n="10"/> iectum nomen clementiam domini provocavit.</p>
 
-## §58  
+
+### Chapter 58
 
 <p>(XLIX), Sed et ampliuss adhuc omnibus ostendere cupio, ut
 agnoscant universi adsertio tua quantum in se inpietatis obtineat. Si
@@ -3619,9 +3707,10 @@ a. Ras. C, wahrscheinlich war ursprünglich maior geschrieben | nach est
 M | 19 est illo ~ M | 26 descenderit M | 29 cuius] cui Μ | ei &lt; M | 
 31 patrat] parat C | 32 conaris] Zacagni, coneris CM</note>
 
-<pb n="86"/>  
+<pb n="86"/>
 
-## §59  
+
+### Chapter 59
 
 <p>(L). Manes dixit: Nemo quidem, qui adversum haec quae a te
 dicta sunt respondere potuerit, blasphemiae crimen incurrit; quin potius
@@ -3687,9 +3776,10 @@ autem veras columbas descendisse sentiendum est? ut te columbarum
 potius furem accipiamus, insidias eis ac laqueos molientem; dignus enim <lb n="12"/>
 <lb n="20"/> es qui verbis ridiculis inludaris; ego tarnen parco, ne auditores videar
 offendere haec dicens, et maxime qnia praeter propositum eat meum in
-te ingerere quae merearis audire.</p>  
+te ingerere quae merearis audire.</p>
 
-## §60  
+
+### Chapter 60
 
 <p> Sed redeam ad rem. Memor stim enim tranaformationis suae,
 qua dicis quia dens transformaverit ae in hominem vel in aolem, ex hoc
@@ -3758,9 +3848,10 @@ est, nostra peccata suscipieos, &lt;propter&gt; qaod ex moliere natus est
 propter quod ad baptisma venit, ut hnius partis perciperet purificationem,
 ut spiritum, qui descenderat in specie columbae, corpus quod susceperat
 portare posset.</p>
-<lb n="5"/>  
+<lb n="5"/>
 
-## §61  
+
+### Chapter 61
 
 <p>(LI). Haec cum dixisset Arcbelaus, admiratae sunt turbae veritatem
 doctrinae eius et landes ei inmensas cum clamoribus reddiderunt,
@@ -3806,9 +3897,10 @@ in ea; describens per loca singula quomodo et qualiter oporteat ministros <lb n=
 dei, quales et qualiter fieri presbyteros qualesque esse debeant qui
 <lb n="5"/> episcopatum desiderant; quae omoia bene nobis et recte disposita usque
 in hodiernum statum suum custodiunt et permanent apud nos huius regulae
-disciplinae.</p>  
+disciplinae.</p>
 
-## §62  
+
+### Chapter 62
 
 <p> Istius vero qui nunc nobis ex Persarum provincia ebullivit,
 Manes nomine, adversum quem mihi disputatio iam secundo commota
@@ -3856,9 +3948,10 @@ erant ei isti quattuor libri et unus discipulua nomine Terebinthus. Quia <lb n="
 ergo aliquantum temporis secum isti ambo decreverant, soli placuit
 Scythiano discurrere in ludaeam, ut ibi congrederetur cum omnibus,
 <lb n="10"/> quicumque ibi videbantur esse doctores; et proveuit eum continuo vita
-defungi nec potuisse aliquid promovere.</p>  
+defungi nec potuisse aliquid promovere.</p>
 
-## §63  
+
+### Chapter 63
 
 <p> nie Tero discipulos, omnibus quaecumque fuerant convasatis,
 in fugam versus est et Babyloniam petiit, quae nunc provincia
@@ -3908,9 +4001,10 @@ ascendit, uti ne ab aliquo convinci possit, quod si dissimulasset vel pro
 nihilo duxisset, cogitabat ae ab aeria principibua poenis esse subdendum;
 haec eo cogitante, iustissimua deus sub terras eum detrudi per spiritum <lb n="6"/>
 iubet, et coatinuo de summo deiectus, exanime corpus deorsum praecipitatum
-<lb n="15"/> est, quod anus illa miserata collectnm locis solitis sepeliit.</p>  
+<lb n="15"/> est, quod anus illa miserata collectnm locis solitis sepeliit.</p>
 
-## §64  
+
+### Chapter 64
 
 <p>(LIII). Tunc omnia illa quae aecnm de Äegypto pertulerat
 manserunt apud eam et gavisa est valde moite eius duplici causa, primo
@@ -3983,9 +4077,10 @@ carcere F | manem M | am Rand nunc carcere trudetur C2</note>
 
 <pb n="94"/>
 cessarunt alienam faanc et ab Antichristo inspiratam per loca singula
-iuserere doctrinam.</p>  
+iuserere doctrinam.</p>
 
-## §65  
+
+### Chapter 65
 
 <p>(LIV). Post haec ad magiatmm soiim redeont, referentes quae
 eis acciderint; audioot etiam ea qnae in ipsam conlata sunt mala. Accedentes
@@ -4034,9 +4129,10 @@ et andistis, in quo prout potuimus ostendimus eom pseudoprophetam
 ease manifeste. Sed custos quidem csrceris qui eum dimiserat punitus <lb n="9"/>
 <lb n="5"/> est; rex vero eum requiri iussit et in quibascumque locis repertum conprehendi.
 Haec cum ego cognovissem, necessariiun fait me etiam vobis
-indicare qnia reqniritur iste a rege Persamio usque in hodiernum diem.</p>  
+indicare qnia reqniritur iste a rege Persamio usque in hodiernum diem.</p>
 
-## §66  
+
+### Chapter 66
 
 <p>(LV). His auditis, turbae volebant Manen conprehensum
 tradere potestati barbarum, qni erant vicini ultra Strangam fluvium,
@@ -4055,9 +4151,10 @@ agnitis, Arcbelaus adiecit ea priori disceptationi ut omnibus innotesceret,
 sicut ego, qui baec scripsi, in prioribus exposui. Congregatis igitur
 omnibua Christianis ferri adversus eum seatentiam placuit, velnt epylogum
 quendam morti eins transmittentes consonantem reliquae vitae eius
-<lb n="23"/> negotiis.</p>  
+<lb n="23"/> negotiis.</p>
 
-## §67  
+
+### Chapter 67
 
 <p> Addidit ebiam boc Archelans dicens: Viri fratres, ne quis
 vestrum iucredulua sit bis quae a me dicta sunt, id est quod non ipse
@@ -4145,9 +4242,10 @@ C offendam in Μ | 24 ve] uel C | desine C</note>
 eomm similia in consequentibus executus eat Haec autem sufficere
 aestimavi ad ostendendam eiua in hac parte aententiam. In hia enim
 de mundi conditione oonscripait secnudum quod Scythianus senserat.</p>
-<lb n="25"/>  
+<lb n="25"/>
 
-## §68  
+
+### Chapter 68
 
 <p> Hie Tero adaumpfcia eius litteris adiecit etiam nomina dae-
 monum et commotiones inquietas atque elementorum cursus non secundum
@@ -4271,5 +4369,5 @@ verbessert | monentibus scheint Mercati und Turner unrichtig; der letxtere
 termutet eminentibus | 11 eorum] Mercati möchte earum (d. h. ecclesiarum)
 I 12 traditorum] Traube vermutet traditurum | 13 nach invenerint folgt: Expli-
 cit altercatio Sancti Archelai epiacopi contra Manen Heresiarcham | Mercati glaubt,
-dass die Vorlage am Ende verstümmelt est</note>  
+dass die Vorlage am Ende verstümmelt est</note>
 

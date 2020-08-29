@@ -12,19 +12,44 @@ header-includes: |
 thanks: "This work has been produced by the Open Greek and Latin project through the help of volunteers. See contributions for details."
 ...
 
-# Contributions  
+# Contributions
 
-Published original versions of the electronic texts: Mark Schiefsky, Harvard University; Gregory R. Crane, Universität Leipzig; Uwe Vagelpohl, University of Warwick  
- Keyboarding:   
- Editor-in-Chief, Perseus Digital Library: Gregory R. Crane  
- Project Manager (University of Leipzig): Matt Munson  
- Project Assistant (University of Leipzig): Annette Geßner  
- Lead Developer (University of Leipzig): Thibault Clérice  
- Technical Advisor: Bruce Robertson  
 
-# De spiritu  
+### Published Original Versions Of The Electronic Texts
 
-## §1  
+Mark Schiefsky, Harvard University  
+Gregory R. Crane, Universität Leipzig  
+Uwe Vagelpohl, University of Warwick  
+  
+### Keyboarding
+
+### Editor-In-Chief, Perseus Digital Library
+
+Gregory R. Crane  
+  
+### Project Manager (University Of Leipzig)
+
+Matt Munson  
+  
+### Project Assistant (University Of Leipzig)
+
+Annette Geßner  
+  
+### Lead Developer (University Of Leipzig)
+
+Thibault Clérice  
+  
+### Technical Advisor
+
+Bruce Robertson  
+  
+### Markdown and PDF Production
+
+This version was produced by [TEItoCEX](https://github.com/ThomasK81/TEItoCEX) written by Thomas Koentges.
+
+# De spiritu
+
+### Chapter 1
 
 <head>ΠΕΡΙ ΠΝΕΥΜΑΤΟΣ.</head>
 					<p>ΤΙΣ ἡ τοῦ ἐμφύτου πνεύματος διαμονή, καὶ τίς ἡ αὔξησις; <lb/>Ὁρῶμεν γὰρ ὅτι πλέον καὶ
@@ -45,9 +70,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						λεπτότερον ἢ παχύτερον. Ἀμφοτέρως δ’ ἄτοπον, εἰ <lb/>τοῦτο πάντων ἔσται καθαρώτατον. Εἰ
 						δὲ παχύτερον, ἔσονταί <pb n="356"/> ταί τινες πόροι μείζους. Εἰ δ’ ἄρα κατὰ τοὺς αὐτοὺς
 						λαμβάνει <lb/>καὶ ἐκπέμπει, τοῦτ’ αὐτὸ παράλογον καὶ ἄτοπον. <lb/>Ἡ μὲν οὖν ἐκ τῆς
-						τροφῆς αὔξησις καὶ διαμονὴ σχεδὸν <lb/>ταῦτα. </p>  
+						τροφῆς αὔξησις καὶ διαμονὴ σχεδὸν <lb/>ταῦτα. </p>
 
-## §2  
+
+### Chapter 2
 
 <p>Ἡ δ’ ἐκ τῆς ἀναπνοῆς, ὥσπερ Ἀριστογένης οἴεται (τροφὴν <lb/>γὰρ οἴεται καὶ τὸ πνεῦμα
 						πεττόμενον, οὐ τοῦ ἀέρος ἐν <lb/>τῷ πνεύματι· τοῦτο δ’ εἰς τὰ ἀγγεῖα διαδίδοσθαι, τὸ
@@ -90,9 +116,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						<lb/>τίς ἡ τροφὴ καὶ αὔξησις τοῦ συμφύτου; Χωρὶς γὰρ <pb n="358"/> τοῦ μὴ ἀναπνεῖν οὐδ’
 						ἐνυπάρχειν ὅλως ἐν τῷ ὑγρῷ φαμὲν <lb/>ἀέρα. Λοιπὸν ἄρα διὰ τῆς τροφῆς, ὡς οὐχ ὁμοίως
 						πᾶσιν, <lb/>ἢ κἀκεῖνα διὰ τῆς τροφῆς τὰ ἔνυγρα· τριῶν γὰρ τούτων <lb/>ἀναγκαῖον ἕν. Καὶ
-						ταῦτα μὲν ὡς περὶ τὴν αὔξησιν καὶ τροφὴν <lb/>τοῦ πνεύματος. </p>  
+						ταῦτα μὲν ὡς περὶ τὴν αὔξησιν καὶ τροφὴν <lb/>τοῦ πνεύματος. </p>
 
-## §3  
+
+### Chapter 3
 
 <p>Περὶ δὲ ἀναπνοῆς οἱ μὲν οὐ λέγουσι τίνος χάριν, ἀλλὰ <lb/>μόνον ὃν τρόπον γίνεται,
 						καθάπερ Ἐμπεδοκλῆς καὶ Δημόκριτος· <lb/>οἱ δ’ οὐδὲ τὸν τρόπον ὅλως λέγουσιν, ἀλλ’ ὡς
@@ -109,9 +136,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						ἀναπνοῆς, καὶ τίνος ἕνεκα καὶ ποίοις <lb/>μέρεσι καὶ πῶς. Ἔτι οὐδ’ ἐπιφορὰ τῆς τροφῆς
 						φαίνεται <lb/>πᾶσι δι’ ἀρτηριῶν, οἷον αὐτοῖς τε τοῖς ἀγγείοις καὶ ἄλλοις <lb/>τισὶ τῶν
 						μερῶν· ζῇ δὲ τὰ φυτὰ καὶ τρέφεται. Ταῦτα μὲν <lb/>οἰκειότερά πως τοῖς περὶ τὰς τροφάς.
-					</p>  
+					</p>
 
-## §4  
+
+### Chapter 4
 
 <p>Ἐπεὶ δὲ τρεῖς αἱ κινήσεις τοῦ ἐν τῇ ἀρτηρίᾳ πνεύματος, <lb/>ἀναπνοή, σφυγμός, τρίτη δ’
 						ἡ τὴν τροφὴν ἐπάγουσα καὶ <pb n="359"/> κατεργαζομένη, λεκτέον ὑπὲρ ἑκάστης καὶ ποῦ καὶ
@@ -141,9 +169,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						ἐπιφορὰ καὶ ἡ τροφὴ καὶ ξυνισταμένου καὶ ξυνεστηκότος, <lb/>ὁ δὲ σφυγμὸς εὐθὺς ἐν τῇ
 						ἀρχῇ ξυνισταμένης τῆς καρδίας, <lb/>καθάπερ ἐν τοῖς ᾠοῖς γίνεται φανερόν. Ὥστε αὕτη
 						<lb/>πρώτη, καὶ ἔοικεν ἐνεργείᾳ τινὶ καὶ οὐκ ἐναπολήψει πνεύματος, <lb/>εἰ μὴ ἄρα τοῦτο
-						πρὸς τὴν ἐνέργειαν. </p>  
+						πρὸς τὴν ἐνέργειαν. </p>
 
-## §5  
+
+### Chapter 5
 
 <p>Τὸ δὲ πνεῦμα <lb/>τὸ ἐκ τῆς ἀναπνοῆς φέρεσθαι μὲν εἰς τὴν κοιλίαν, οὐ διὰ <lb/>τοῦ
 						στομάχου (τοῦτο μὲν γὰρ ἀδύνατον), ἀλλὰ πόρον εἶναι <lb/>παρὰ τὴν ὀσφύν, δι’ οὗ τὸ
@@ -190,9 +219,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						<lb/>πως ἡ διαμονή, μηδενὸς ἀντικειμένου μηδὲ καταψύχοντος. <lb/>Ὅτι γὰρ πάντα δεῖται
 						καταψύξεως, σχεδὸν φανερὸν τῷ <lb/>αἷμα κατέχειν ἐν τῇ φλεβὶ τὸ θερμὸν οἷον ἀποστέγον·
 						διὸ <lb/>καὶ ὅταν ἐκρυῇ, μεθιέναι τε καὶ ἀποθνήσκειν, τῷ τὸ ἧπαρ <lb/>οὐκ ἔχειν οὐδεμίαν
-						ἀρτηρίαν. </p>  
+						ἀρτηρίαν. </p>
 
-## §6  
+
+### Chapter 6
 
 <p>Πότερον δὲ τὸ σπέρμα διὰ τῆς ἀρτηρίας ὡς καὶ συνθλιβόμενον, <lb/>καὶ ἐν τῇ προέσει
 						μόνον; Ἐν οἷς δὴ φαίνεται καὶ <lb/>ἡ ἐξ αἵματος μεταβολὴ τῷ τὰ νεῦρα ἀπὸ τῶν ὀστῶν
@@ -216,9 +246,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						Τοὐναντίον γὰρ δοκεῖ <lb/>μᾶλλον ἀπὸ τῶν ἐντὸς ἢ τῶν ἐκτός. Ἔτι δὲ ποία καὶ διὰ
 						<lb/>τίνων ἡ ἐκ τῆς κοιλίας δίοδος; Καὶ πάλιν ἡ ἐκείνων ἀναστροφὴ <lb/>πρὸς τὴν σάρκα,
 						καίπερ ἄλογος οὖσα. Πολὺ γάρ <lb/>τι θαυμαστὸν φαίνεται καὶ ἀδύνατον ὅλως. Ἄρα γε ἄλλοις
-						<lb/>ἄλλη τροφή, καὶ οὐ πᾶσι τροφὴ τὸ αἷμα· πλὴν ἐκ τούτου <lb/>τἆλλα. </p>  
+						<lb/>ἄλλη τροφή, καὶ οὐ πᾶσι τροφὴ τὸ αἷμα· πλὴν ἐκ τούτου <lb/>τἆλλα. </p>
 
-## §7  
+
+### Chapter 7
 
 <p>Τὴν τῶν ὀστῶν φύσιν ἄρα σκεπτέον ἢ πρὸς κίνησιν ἢ πρὸς <lb/>ἔρεισμα, καὶ πρὸς τὸ
 						στέγειν καὶ περιέχειν, ἔτι δ’ εἰ ὥσπερ <lb/>ἀρχαὶ ἔνια, καθάπερ ὁ πόλος. Λέγω δὲ πρὸς
@@ -241,9 +272,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						νεύρων, <lb/>ἴσως δ’ ὅσα πρακτικῶς μάλιστα, οἷον τὰ περὶ ἀγκῶνα καὶ <lb/>σκέλη καὶ
 						χεῖρας καὶ πόδας. Τὰ δ’ ἄλλα συνδέσμου χάριν, <lb/>ὅσα δεῖται. Ἐνίοις γὰρ ἴσως οὐδὲν ἢ
 						ἐπ’ ὀλίγον, οἷον ἡ <lb/>ῥάχις· ἀλλ’ ἡ κάμψις. Καὶ γὰρ ἡ πρὸς ἄλληλα κόλλησις <lb/>ἰχώρ
-						ἐστι καὶ ὑγρότης μυξώδης. Τὰ δὲ καὶ συνδεῖται νεύροις, <lb/>οἷον τὰ περὶ τὰ ἄρθρα. </p>  
+						ἐστι καὶ ὑγρότης μυξώδης. Τὰ δὲ καὶ συνδεῖται νεύροις, <lb/>οἷον τὰ περὶ τὰ ἄρθρα. </p>
 
-## §8  
+
+### Chapter 8
 
 <p>Πάντων δ’ ἐστὶ λόγος ὁ βελτίων ὡς καὶ νῦν ζητεῖν· ἀλλὰ <lb/>τὰς ἀρχὰς ἐφ’ ἱκανόν, ὧν
 						χάριν, σκεπτέον. Οὐκ ἂν δόξειε <lb/>κινήσεως ἕνεκα τὰ ὀστᾶ, ἀλλὰ μᾶλλον τὰ νεῦρα ἢ τὰ
@@ -261,9 +293,10 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						τὴν κατὰ τόπον ἀλλαγήν· ὅσα δὲ πρὸς <lb/>τὴν ἄλλην χρείαν, ὥσπερ ὑφηγεῖται καὶ ἑκάστου
 						τὰ ἴδια, <lb/>καὶ εἴ τι μὴ προφανές, οἷον διὰ τί τὰ πολύποδα βραδύτατα, <lb/>καίτοι τὰ
 						τετράποδα θάττω τῶν διπόδων· πότερον ὅτι ἐπὶ <lb/>γῆς ὅλα τὰ σώματα; ἢ ὅτι φύσει ψυχρὰ
-						καὶ δυσκίνητα; <lb/>ἢ δι’ ἄλλην αἰτίαν; </p>  
+						καὶ δυσκίνητα; <lb/>ἢ δι’ ἄλλην αἰτίαν; </p>
 
-## §9  
+
+### Chapter 9
 
 <p>Οἱ ἀναιροῦντες ὡς οὐ τὸ θερυὸν τὸ ἐργαζόμενον ἐν τοῖς <lb/>σώμασιν, ἢ ὅτι μία τις φορὰ
 						καὶ δύναμις ἡ τμητικὴ τοῦ <lb/>πυρός, οὐ καλῶς λέγουσιν. Οὐδὲ γὰρ ὅλα τοῖς ἀψύχοις
@@ -302,5 +335,5 @@ Published original versions of the electronic texts: Mark Schiefsky, Harvard Uni
 						Ἄρα ὁ αὐτὸς καὶ περὶ σαρκὸς λόγος· καὶ γὰρ <lb/>αἱ αὐταὶ διαφοραί. Σχεδὸν δὲ καὶ περὶ
 						φλεβὸς καὶ ἀρτηρίας <lb/>καὶ τῶν λοιπῶν. Ὥστε δυεῖν θάτερον, ἢ οὐχ εἷς ὁ <lb/>λόγος
 						τούτων κατὰ τὴν μίξιν, ἢ οὐ σκληρότητι καὶ πυκνότητι <lb/>καὶ τοῖς ἐναντίοις τοὺς λόγους
-						ληπτέον. </p>  
+						ληπτέον. </p>
 
